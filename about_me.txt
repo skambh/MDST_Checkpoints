@@ -1,0 +1,5 @@
+Introduce yourself in this file!
+
+Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+Hi! My name is Shashank Kambhammettu. I'm a junior in Computer Science LSA with a minor in economics. A fun fact about me is I love tacos :)
